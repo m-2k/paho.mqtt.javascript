@@ -1,6 +1,6 @@
 {
 	"name": "paho-client",
-	"version": "1.0.3"
+	"version": "1.0.3",
 	"description": "Eclipse Paho JavaScript MQTT client",
 	"main": "paho-mqtt.js",
 	"dependencies": {
